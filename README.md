@@ -1,5 +1,5 @@
 # NTU GPA Calculator
-A simple command line semester gpa calculator for National Taiwan University. Useful for checking if your gpa had been calculated by the school's system correctly.
+A simple command line gpa calculator for National Taiwan University. Useful for checking if your gpa had been calculated by the school's system correctly.
 
 ## Instructions
 1. Compile the program
